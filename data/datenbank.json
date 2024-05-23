@@ -1,0 +1,278 @@
+{
+  "Speisen": {
+    "Saucen": [
+      {
+        "Name": "Tomatensauce",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Hackfleischsauce",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Carbonarasauce",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Barbecuesauce",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Creme-Fraiche-Sauce",
+        "Preis": 0.5
+      }
+    ],
+    "Zutaten": [
+      {
+        "Name": "Salami",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Pilze",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Brokkoli",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Schinken",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Paprika",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Oliven",
+        "Preis": 0.5
+      }
+    ],
+    "Extras": [
+      {
+        "Name": "ohne Extras",
+        "Preis": 0
+      },
+      {
+        "Name": "scharf",
+        "Preis": 0.5
+      },
+      {
+        "Name": "extra Kaese",
+        "Preis": 0.5
+      }
+    ],
+    "Pizza": {
+      "Sorte": [
+        {
+          "Name": "SMALL 26cm",
+          "Preis": 3.0
+        },
+        {
+          "Name": "MEDIUM 32cm",
+          "Preis": 4.0
+        },
+        {
+          "Name": "KING 45cm",
+          "Preis": 5.0
+        }
+      ]
+    },
+    "Pasta": {
+      "Sorte": [
+        {
+          "Name": "Spaghetti",
+          "Preis": 4.0
+        },
+        {
+          "Name": "Rigatoni",
+          "Preis": 4.5
+        },
+        {
+          "Name": "Penne",
+          "Preis": 5.0
+        }
+      ]
+    }
+  },
+  "Getraenke": {
+    "Kaltgetraenke": {
+      "Sorte": [
+        {
+          "Name": "Wasser",
+          "Preis": 2.0
+        },
+        {
+          "Name": "Cola",
+          "Preis": 2.5
+        },
+        {
+          "Name": "Orangensaft",
+          "Preis": 3.0
+        },
+        {
+          "Name": "Apfelsaft",
+          "Preis": 3.0
+        }
+      ],
+      "Optionen": [
+        {
+          "Name": "0.5l",
+          "Preis": 0.0
+        },
+        {
+          "Name": "1l",
+          "Preis": 1.0
+        },
+        {
+          "Name": "1.5l",
+          "Preis": 2.0
+        }
+      ]
+    },
+    "Heissgetraenke": {
+      "Sorte": [
+        {
+          "Name": "Espresso",
+          "Preis": 2.5
+        },
+        {
+          "Name": "Cappuccino",
+          "Preis": 3.0
+        }
+      ],
+      "Optionen": {
+        "Geschmack": [
+          {
+            "Name": "Vanille",
+            "Preis": 0.5
+          },
+          {
+            "Name": "Karamell",
+            "Preis": 0.5
+          },
+          {
+            "Name": "Haselnuss",
+            "Preis": 0.5
+          }
+        ],
+        "Zucker": [
+          {
+            "Name": "Kein Zucker",
+            "Preis": 0.0
+          },
+          {
+            "Name": "Normal",
+            "Preis": 0.5
+          },
+          {
+            "Name": "Extra suess",
+            "Preis": 1.0
+          }
+        ]
+      }
+    },
+    "Drinks": {
+      "Sorte": [
+        {
+          "Name": "Aperol Spritz",
+          "Preis": 4.0
+        },
+        {
+          "Name": "Limoncello",
+          "Preis": 3.5
+        }
+      ],
+      "Optionen": {
+        "Alkoholgehalt": [
+          {
+            "Name": "Mit Alkohol",
+            "Preis": 0.0
+          },
+          {
+            "Name": "Alkoholfrei",
+            "Preis": 0.5
+          }
+        ],
+        "Garnierung": [
+          {
+            "Name": "Keine Garnierung",
+            "Preis": 0.0
+          },
+          {
+            "Name": "Orangenscheibe",
+            "Preis": 0.5
+          },
+          {
+            "Name": "Zitrone",
+            "Preis": 0.8
+          },
+          {
+            "Name": "Olive",
+            "Preis": 1.0
+          }
+        ]
+      }
+    }
+  },
+  "Eis": {
+    "Sorte": [
+      {
+        "Name": "Spaghettieis",
+        "Preis": 3.0
+      },
+      {
+        "Name": "Wassereiseis",
+        "Preis": 1.0
+      },
+      {
+        "Name": "Eiskugeln",
+        "Preis": 2.0
+      }
+    ],
+    "Geschmack": [
+      {
+        "Name": "Schokolade",
+        "Preis": 1.0
+      },
+      {
+        "Name": "Erdbeere",
+        "Preis": 1.0
+      },
+      {
+        "Name": "Vanille",
+        "Preis": 1.0
+      },
+      {
+        "Name": "Blauer Engel",
+        "Preis": 2.0
+      },
+      {
+        "Name": "Stracciatella",
+        "Preis": 1.0
+      },
+      {
+        "Name": "Leberkaes",
+        "Preis": 1.0
+      }
+    ],
+    "Extras": [
+      {
+        "Name": "Sahne",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Streusel",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Schokosauce",
+        "Preis": 0.5
+      },
+      {
+        "Name": "Karamellsauce",
+        "Preis": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+<mxfile host="Electron" modified="2024-01-31T11:07:15.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="peZ7lF6VmCbwicRFqLq_" version="22.1.2" type="device">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="3134" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lkox0togM_EY-c_sv_dy-150" value="Usereingabe" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="-560" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-93" value="Order" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="-240" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-94" value="Speisekarte" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="-30" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-95" value="Restaurant (main)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="160" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-96" value="Kellner" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="440" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-97" value="Küche" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="845" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-98" value="main" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-99" value="Klasse&lt;br&gt;Italienisches_Essen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-508" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="lkox0togM_EY-c_sv_dy-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-721" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-100" value="Klasse&lt;br&gt;Pizza" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-781" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkox0togM_EY-c_sv_dy-101" target="lkox0togM_EY-c_sv_dy-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-101" value="Klasse&lt;br&gt;Nudeln" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-508" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-104" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;dashed=1;entryX=0.998;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lkox0togM_EY-c_sv_dy-105" target="lkox0togM_EY-c_sv_dy-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="650" as="targetPoint" />
+            <mxPoint x="-220" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-105" value="Datenbank DB&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="250" width="60" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lkox0togM_EY-c_sv_dy-109" target="lkox0togM_EY-c_sv_dy-112" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-982" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-109" value="Klasse Dessert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1042" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzhO4p2MT8UpTjR3GpE5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lkox0togM_EY-c_sv_dy-112" target="lkox0togM_EY-c_sv_dy-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-720" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-982" y="290" />
+              <mxPoint x="-719" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-112" value="Klasse&lt;br&gt;Italienisches_Dessert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1042" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-113" value="Farbcode /&lt;br&gt;Teilprojektstatus" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-1380" y="1015" width="1180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-114" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="lkox0togM_EY-c_sv_dy-115" target="lkox0togM_EY-c_sv_dy-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-115" value="1. Idee" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-1220" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-116" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="lkox0togM_EY-c_sv_dy-117" target="lkox0togM_EY-c_sv_dy-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-117" value="2. Planung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1042" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-118" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="lkox0togM_EY-c_sv_dy-119" target="lkox0togM_EY-c_sv_dy-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-119" value="3. Anpassung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-864" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-120" value="4. realisiert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-686" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-126" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lkox0togM_EY-c_sv_dy-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-720" y="290" as="targetPoint" />
+            <mxPoint x="-450" y="365" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-450" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-128" value="Speisekarte" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-147" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" parent="1" source="lkox0togM_EY-c_sv_dy-129" target="lkox0togM_EY-c_sv_dy-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1030" y="-190" />
+              <mxPoint x="-1030" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-129" value="Bestellung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-132" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-735" y="-540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-135" value="Essen Kochen" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-549" y="605" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-136" value="Wähle Option" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-549" y="695" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-138" value="Speisekarte herstellen (GUI)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="-110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lkox0togM_EY-c_sv_dy-149" target="lkox0togM_EY-c_sv_dy-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-149" value="Eingabemaske zur Bestellung" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="-380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-151" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;UseCase&lt;br&gt;&lt;br&gt;Die Gruppenarbeit entwickelt sich von anfänglich einer Pizzaklasse mit dementsprechenden Funktionen zur einer Art Restaurant- oder Lieferdienstprogramm.&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-1190" y="-950" width="940" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-154" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Anwendungsfalldiagramm&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="-975" y="-660" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzhO4p2MT8UpTjR3GpE5-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QzhO4p2MT8UpTjR3GpE5-2" target="QzhO4p2MT8UpTjR3GpE5-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1220" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzhO4p2MT8UpTjR3GpE5-2" value="Klasse Getraenke" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzhO4p2MT8UpTjR3GpE5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QzhO4p2MT8UpTjR3GpE5-3" target="lkox0togM_EY-c_sv_dy-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1220" y="290" />
+              <mxPoint x="-720" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzhO4p2MT8UpTjR3GpE5-3" value="Klasse&lt;br&gt;Italienische_Getraenke" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-3" value="Dessert zubereiten" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="605" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-5" value="Getränk zubereiten" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="605" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-9" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0;exitY=0.533;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkox0togM_EY-c_sv_dy-105" target="lkox0togM_EY-c_sv_dy-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="720" as="targetPoint" />
+            <mxPoint x="-190" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lkox0togM_EY-c_sv_dy-105" target="lkox0togM_EY-c_sv_dy-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-192" y="492" as="targetPoint" />
+            <mxPoint x="-90" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-11" value="temporäre Bestellung&lt;br&gt;DB&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-290" width="60" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzWaBgT9S7RA9fGn97o-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.017;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=open;startFill=0;endFill=0;" edge="1" parent="1" source="fmzWaBgT9S7RA9fGn97o-11" target="lkox0togM_EY-c_sv_dy-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="220" as="targetPoint" />
+            <mxPoint x="-90" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lkox0togM_EY-c_sv_dy-141" value="Datenbank erstellen" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
